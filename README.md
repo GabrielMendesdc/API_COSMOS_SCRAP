@@ -1,2 +1,2 @@
-# API_COSMOS_SCRAP
-## my app for cosmos api , i will use it somewhere
+# COSMOS SCRAP API
+## MY APP FOR COSMOS API, I WILL USE IT SOMEHOW
